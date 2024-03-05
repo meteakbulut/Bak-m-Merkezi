@@ -1,0 +1,118 @@
+C:\Users\david\source\repos\yeni form\yeni form\bin\Debug\yeni form.exe.config
+C:\Users\david\source\repos\yeni form\yeni form\bin\Debug\yeni form.exe
+C:\Users\david\source\repos\yeni form\yeni form\bin\Debug\yeni form.pdb
+C:\Users\david\source\repos\yeni form\yeni form\obj\Debug\yeni form.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\yeni form\yeni form\obj\Debug\yeni form.csproj.SuggestedBindingRedirects.cache
+C:\Users\david\source\repos\yeni form\yeni form\obj\Debug\yeni_form.Form1.resources
+C:\Users\david\source\repos\yeni form\yeni form\obj\Debug\yeni_form.Properties.Resources.resources
+C:\Users\david\source\repos\yeni form\yeni form\obj\Debug\yeni form.csproj.GenerateResource.cache
+C:\Users\david\source\repos\yeni form\yeni form\obj\Debug\yeni form.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\yeni form\yeni form\obj\Debug\yeni form.exe
+C:\Users\david\source\repos\yeni form\yeni form\obj\Debug\yeni form.pdb
+C:\Users\david\source\repos\yeni form\yeni form\obj\Debug\yeni_form.Form2.resources
+C:\Users\david\source\repos\yeni form\yeni form\obj\Debug\yeni_form.lazerepil.resources
+C:\Users\david\source\repos\yeni form\yeni form\obj\Debug\yeni_form.kastasarim.resources
+C:\Users\david\source\repos\yeni form\yeni form\obj\Debug\yeni_form.ciltbakim.resources
+C:\Users\david\source\repos\yeni form\yeni form\obj\Debug\yeni_form.kalicimakyaj.resources
+C:\Users\david\source\repos\yeni form\yeni form\obj\Debug\yeni_form.proteztirnak.resources
+C:\Users\david\source\repos\yeni form\yeni form\obj\Debug\yeni_form.sakalbakim.resources
+C:\Users\david\source\repos\yeni form\yeni form\obj\Debug\yeni_form.islemyapilacak.resources
+C:\Users\david\source\repos\yeni form\yeni form\obj\Debug\yeni_form.Form4.resources
+C:\Users\meteh\OneDrive\Masaüstü\105-bakim-merkezi-otomasyonu-main\yeni form 3 güncel\yeni form\bin\Debug\yeni form.exe.config
+C:\Users\meteh\OneDrive\Masaüstü\105-bakim-merkezi-otomasyonu-main\yeni form 3 güncel\yeni form\bin\Debug\yeni form.exe
+C:\Users\meteh\OneDrive\Masaüstü\105-bakim-merkezi-otomasyonu-main\yeni form 3 güncel\yeni form\bin\Debug\yeni form.pdb
+C:\Users\meteh\OneDrive\Masaüstü\105-bakim-merkezi-otomasyonu-main\yeni form 3 güncel\yeni form\obj\Debug\yeni form.csproj.AssemblyReference.cache
+C:\Users\meteh\OneDrive\Masaüstü\105-bakim-merkezi-otomasyonu-main\yeni form 3 güncel\yeni form\obj\Debug\yeni_form.ciltbakim.resources
+C:\Users\meteh\OneDrive\Masaüstü\105-bakim-merkezi-otomasyonu-main\yeni form 3 güncel\yeni form\obj\Debug\yeni_form.Form1.resources
+C:\Users\meteh\OneDrive\Masaüstü\105-bakim-merkezi-otomasyonu-main\yeni form 3 güncel\yeni form\obj\Debug\yeni_form.Form2.resources
+C:\Users\meteh\OneDrive\Masaüstü\105-bakim-merkezi-otomasyonu-main\yeni form 3 güncel\yeni form\obj\Debug\yeni_form.lazerepil.resources
+C:\Users\meteh\OneDrive\Masaüstü\105-bakim-merkezi-otomasyonu-main\yeni form 3 güncel\yeni form\obj\Debug\yeni_form.Form4.resources
+C:\Users\meteh\OneDrive\Masaüstü\105-bakim-merkezi-otomasyonu-main\yeni form 3 güncel\yeni form\obj\Debug\yeni_form.islemyapilacak.resources
+C:\Users\meteh\OneDrive\Masaüstü\105-bakim-merkezi-otomasyonu-main\yeni form 3 güncel\yeni form\obj\Debug\yeni_form.kalicimakyaj.resources
+C:\Users\meteh\OneDrive\Masaüstü\105-bakim-merkezi-otomasyonu-main\yeni form 3 güncel\yeni form\obj\Debug\yeni_form.kastasarim.resources
+C:\Users\meteh\OneDrive\Masaüstü\105-bakim-merkezi-otomasyonu-main\yeni form 3 güncel\yeni form\obj\Debug\yeni_form.Properties.Resources.resources
+C:\Users\meteh\OneDrive\Masaüstü\105-bakim-merkezi-otomasyonu-main\yeni form 3 güncel\yeni form\obj\Debug\yeni_form.proteztirnak.resources
+C:\Users\meteh\OneDrive\Masaüstü\105-bakim-merkezi-otomasyonu-main\yeni form 3 güncel\yeni form\obj\Debug\yeni_form.sakalbakim.resources
+C:\Users\meteh\OneDrive\Masaüstü\105-bakim-merkezi-otomasyonu-main\yeni form 3 güncel\yeni form\obj\Debug\yeni form.csproj.GenerateResource.cache
+C:\Users\meteh\OneDrive\Masaüstü\105-bakim-merkezi-otomasyonu-main\yeni form 3 güncel\yeni form\obj\Debug\yeni form.csproj.CoreCompileInputs.cache
+C:\Users\meteh\OneDrive\Masaüstü\105-bakim-merkezi-otomasyonu-main\yeni form 3 güncel\yeni form\obj\Debug\yeni form.exe
+C:\Users\meteh\OneDrive\Masaüstü\105-bakim-merkezi-otomasyonu-main\yeni form 3 güncel\yeni form\obj\Debug\yeni form.pdb
+C:\Users\meteh\OneDrive\Masaüstü\yeni form 4 güncel\yeni form\bin\Debug\yeni form.exe.config
+C:\Users\meteh\OneDrive\Masaüstü\yeni form 4 güncel\yeni form\bin\Debug\yeni form.exe
+C:\Users\meteh\OneDrive\Masaüstü\yeni form 4 güncel\yeni form\bin\Debug\yeni form.pdb
+C:\Users\meteh\OneDrive\Masaüstü\yeni form 4 güncel\yeni form\obj\Debug\yeni form.csproj.AssemblyReference.cache
+C:\Users\meteh\OneDrive\Masaüstü\yeni form 4 güncel\yeni form\obj\Debug\yeni_form.ciltbakim.resources
+C:\Users\meteh\OneDrive\Masaüstü\yeni form 4 güncel\yeni form\obj\Debug\yeni_form.Form1.resources
+C:\Users\meteh\OneDrive\Masaüstü\yeni form 4 güncel\yeni form\obj\Debug\yeni_form.Form2.resources
+C:\Users\meteh\OneDrive\Masaüstü\yeni form 4 güncel\yeni form\obj\Debug\yeni_form.lazerepil.resources
+C:\Users\meteh\OneDrive\Masaüstü\yeni form 4 güncel\yeni form\obj\Debug\yeni_form.Form4.resources
+C:\Users\meteh\OneDrive\Masaüstü\yeni form 4 güncel\yeni form\obj\Debug\yeni_form.islemyapilacak.resources
+C:\Users\meteh\OneDrive\Masaüstü\yeni form 4 güncel\yeni form\obj\Debug\yeni_form.kalicimakyaj.resources
+C:\Users\meteh\OneDrive\Masaüstü\yeni form 4 güncel\yeni form\obj\Debug\yeni_form.kastasarim.resources
+C:\Users\meteh\OneDrive\Masaüstü\yeni form 4 güncel\yeni form\obj\Debug\yeni_form.Properties.Resources.resources
+C:\Users\meteh\OneDrive\Masaüstü\yeni form 4 güncel\yeni form\obj\Debug\yeni_form.proteztirnak.resources
+C:\Users\meteh\OneDrive\Masaüstü\yeni form 4 güncel\yeni form\obj\Debug\yeni_form.sakalbakim.resources
+C:\Users\meteh\OneDrive\Masaüstü\yeni form 4 güncel\yeni form\obj\Debug\yeni form.csproj.GenerateResource.cache
+C:\Users\meteh\OneDrive\Masaüstü\yeni form 4 güncel\yeni form\obj\Debug\yeni form.csproj.CoreCompileInputs.cache
+C:\Users\meteh\OneDrive\Masaüstü\yeni form 4 güncel\yeni form\obj\Debug\yeni form.exe
+C:\Users\meteh\OneDrive\Masaüstü\yeni form 4 güncel\yeni form\obj\Debug\yeni form.pdb
+C:\Users\david\OneDrive\Masaüstü\yeni form 4 güncel\yeni form\bin\Debug\yeni form.exe.config
+C:\Users\david\OneDrive\Masaüstü\yeni form 4 güncel\yeni form\bin\Debug\yeni form.exe
+C:\Users\david\OneDrive\Masaüstü\yeni form 4 güncel\yeni form\bin\Debug\yeni form.pdb
+C:\Users\david\OneDrive\Masaüstü\yeni form 4 güncel\yeni form\obj\Debug\yeni form.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Masaüstü\yeni form 4 güncel\yeni form\obj\Debug\yeni form.csproj.SuggestedBindingRedirects.cache
+C:\Users\david\OneDrive\Masaüstü\yeni form 4 güncel\yeni form\obj\Debug\yeni_form.ciltbakim.resources
+C:\Users\david\OneDrive\Masaüstü\yeni form 4 güncel\yeni form\obj\Debug\yeni_form.Form1.resources
+C:\Users\david\OneDrive\Masaüstü\yeni form 4 güncel\yeni form\obj\Debug\yeni_form.Form2.resources
+C:\Users\david\OneDrive\Masaüstü\yeni form 4 güncel\yeni form\obj\Debug\yeni_form.lazerepil.resources
+C:\Users\david\OneDrive\Masaüstü\yeni form 4 güncel\yeni form\obj\Debug\yeni_form.Form4.resources
+C:\Users\david\OneDrive\Masaüstü\yeni form 4 güncel\yeni form\obj\Debug\yeni_form.islemyapilacak.resources
+C:\Users\david\OneDrive\Masaüstü\yeni form 4 güncel\yeni form\obj\Debug\yeni_form.kalicimakyaj.resources
+C:\Users\david\OneDrive\Masaüstü\yeni form 4 güncel\yeni form\obj\Debug\yeni_form.kastasarim.resources
+C:\Users\david\OneDrive\Masaüstü\yeni form 4 güncel\yeni form\obj\Debug\yeni_form.Properties.Resources.resources
+C:\Users\david\OneDrive\Masaüstü\yeni form 4 güncel\yeni form\obj\Debug\yeni_form.proteztirnak.resources
+C:\Users\david\OneDrive\Masaüstü\yeni form 4 güncel\yeni form\obj\Debug\yeni_form.sakalbakim.resources
+C:\Users\david\OneDrive\Masaüstü\yeni form 4 güncel\yeni form\obj\Debug\yeni form.csproj.GenerateResource.cache
+C:\Users\david\OneDrive\Masaüstü\yeni form 4 güncel\yeni form\obj\Debug\yeni form.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Masaüstü\yeni form 4 güncel\yeni form\obj\Debug\yeni form.exe
+C:\Users\david\OneDrive\Masaüstü\yeni form 4 güncel\yeni form\obj\Debug\yeni form.pdb
+C:\Users\david\OneDrive\Masaüstü\yeni form 5 güncel\yeni form\bin\Debug\yeni form.exe.config
+C:\Users\david\OneDrive\Masaüstü\yeni form 5 güncel\yeni form\bin\Debug\yeni form.exe
+C:\Users\david\OneDrive\Masaüstü\yeni form 5 güncel\yeni form\bin\Debug\yeni form.pdb
+C:\Users\david\OneDrive\Masaüstü\yeni form 5 güncel\yeni form\obj\Debug\yeni form.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Masaüstü\yeni form 5 güncel\yeni form\obj\Debug\yeni form.csproj.SuggestedBindingRedirects.cache
+C:\Users\david\OneDrive\Masaüstü\yeni form 5 güncel\yeni form\obj\Debug\yeni_form.ciltbakim.resources
+C:\Users\david\OneDrive\Masaüstü\yeni form 5 güncel\yeni form\obj\Debug\yeni_form.Form1.resources
+C:\Users\david\OneDrive\Masaüstü\yeni form 5 güncel\yeni form\obj\Debug\yeni_form.Form2.resources
+C:\Users\david\OneDrive\Masaüstü\yeni form 5 güncel\yeni form\obj\Debug\yeni_form.lazerepil.resources
+C:\Users\david\OneDrive\Masaüstü\yeni form 5 güncel\yeni form\obj\Debug\yeni_form.Form4.resources
+C:\Users\david\OneDrive\Masaüstü\yeni form 5 güncel\yeni form\obj\Debug\yeni_form.islemyapilacak.resources
+C:\Users\david\OneDrive\Masaüstü\yeni form 5 güncel\yeni form\obj\Debug\yeni_form.kalicimakyaj.resources
+C:\Users\david\OneDrive\Masaüstü\yeni form 5 güncel\yeni form\obj\Debug\yeni_form.kastasarim.resources
+C:\Users\david\OneDrive\Masaüstü\yeni form 5 güncel\yeni form\obj\Debug\yeni_form.Properties.Resources.resources
+C:\Users\david\OneDrive\Masaüstü\yeni form 5 güncel\yeni form\obj\Debug\yeni_form.proteztirnak.resources
+C:\Users\david\OneDrive\Masaüstü\yeni form 5 güncel\yeni form\obj\Debug\yeni_form.sakalbakim.resources
+C:\Users\david\OneDrive\Masaüstü\yeni form 5 güncel\yeni form\obj\Debug\yeni form.csproj.GenerateResource.cache
+C:\Users\david\OneDrive\Masaüstü\yeni form 5 güncel\yeni form\obj\Debug\yeni form.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Masaüstü\yeni form 5 güncel\yeni form\obj\Debug\yeni form.exe
+C:\Users\david\OneDrive\Masaüstü\yeni form 5 güncel\yeni form\obj\Debug\yeni form.pdb
+C:\Users\david\OneDrive\Masaüstü\yeni form 6 güncel\yeni form\bin\Debug\yeni form.exe.config
+C:\Users\david\OneDrive\Masaüstü\yeni form 6 güncel\yeni form\bin\Debug\yeni form.exe
+C:\Users\david\OneDrive\Masaüstü\yeni form 6 güncel\yeni form\bin\Debug\yeni form.pdb
+C:\Users\david\OneDrive\Masaüstü\yeni form 6 güncel\yeni form\obj\Debug\yeni form.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Masaüstü\yeni form 6 güncel\yeni form\obj\Debug\yeni form.csproj.SuggestedBindingRedirects.cache
+C:\Users\david\OneDrive\Masaüstü\yeni form 6 güncel\yeni form\obj\Debug\yeni_form.ciltbakim.resources
+C:\Users\david\OneDrive\Masaüstü\yeni form 6 güncel\yeni form\obj\Debug\yeni_form.Form1.resources
+C:\Users\david\OneDrive\Masaüstü\yeni form 6 güncel\yeni form\obj\Debug\yeni_form.Form2.resources
+C:\Users\david\OneDrive\Masaüstü\yeni form 6 güncel\yeni form\obj\Debug\yeni_form.lazerepil.resources
+C:\Users\david\OneDrive\Masaüstü\yeni form 6 güncel\yeni form\obj\Debug\yeni_form.Form4.resources
+C:\Users\david\OneDrive\Masaüstü\yeni form 6 güncel\yeni form\obj\Debug\yeni_form.islemyapilacak.resources
+C:\Users\david\OneDrive\Masaüstü\yeni form 6 güncel\yeni form\obj\Debug\yeni_form.kalicimakyaj.resources
+C:\Users\david\OneDrive\Masaüstü\yeni form 6 güncel\yeni form\obj\Debug\yeni_form.kastasarim.resources
+C:\Users\david\OneDrive\Masaüstü\yeni form 6 güncel\yeni form\obj\Debug\yeni_form.Properties.Resources.resources
+C:\Users\david\OneDrive\Masaüstü\yeni form 6 güncel\yeni form\obj\Debug\yeni_form.proteztirnak.resources
+C:\Users\david\OneDrive\Masaüstü\yeni form 6 güncel\yeni form\obj\Debug\yeni_form.sakalbakim.resources
+C:\Users\david\OneDrive\Masaüstü\yeni form 6 güncel\yeni form\obj\Debug\yeni form.csproj.GenerateResource.cache
+C:\Users\david\OneDrive\Masaüstü\yeni form 6 güncel\yeni form\obj\Debug\yeni form.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Masaüstü\yeni form 6 güncel\yeni form\obj\Debug\yeni form.exe
+C:\Users\david\OneDrive\Masaüstü\yeni form 6 güncel\yeni form\obj\Debug\yeni form.pdb
